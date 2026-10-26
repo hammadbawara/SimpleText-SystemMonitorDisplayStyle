@@ -1,0 +1,12 @@
+{
+    "KPackageStructure": "KSysguard/SensorFace",
+    "KPlugin": {
+        "Id": "org.kde.ksysguard.simpletext",
+        "Name": "Simple Text",
+        "Description": "Plain sensor readings with configurable columns and text formatting",
+        "Icon": "view-list-text",
+        "Version": "1.1.1",
+        "License": "MIT"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="columns" type="Int"><default>1</default><min>1</min><max>16</max></entry>
+        <entry name="rowSpacing" type="Int"><default>0</default><min>0</min><max>100</max></entry>
+        <entry name="columnSpacing" type="Int"><default>12</default><min>0</min><max>100</max></entry>
+        <entry name="fontSize" type="Int"><default>0</default><min>0</min><max>96</max></entry>
+        <entry name="bold" type="Bool"><default>false</default></entry>
+        <entry name="monospace" type="Bool"><default>true</default></entry>
+        <entry name="stableWidth" type="Bool"><default>true</default></entry>
+        <entry name="widthCharacters" type="Int"><default>12</default><min>1</min><max>80</max></entry>
+        <entry name="showEllipsis" type="Bool"><default>true</default></entry>
+        <entry name="fontFamily" type="String"><default></default></entry>
+        <entry name="italic" type="Bool"><default>false</default></entry>
+        <entry name="underline" type="Bool"><default>false</default></entry>
+        <entry name="letterSpacing" type="Int"><default>0</default><min>0</min><max>10</max></entry>
+        <entry name="textColor" type="String"><default></default></entry>
+        <entry name="alignment" type="Int"><default>0</default><min>0</min><max>2</max></entry>
+        <entry name="useSensorColors" type="Bool"><default>false</default></entry>
+        <entry name="textFormat" type="String"><default>{value}</default></entry>
+    </group>
+</kcfg>
